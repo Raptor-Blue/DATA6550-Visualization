@@ -12,4 +12,4 @@ Group project for DATA 6550 on Data Visualization
 - `Collaboration/`: AI-generated summaries of group discussions.
   - `WeekA.docx`: Summary of Week A discussions.
   - `WeekB.docx`: Summary of Week B discussions.
-- `Images/`: Directory for graphics and intermediate results.
+- `Analysis/`: Directory for graphics and intermediate results.
