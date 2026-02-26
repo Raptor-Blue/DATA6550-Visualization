@@ -2,16 +2,14 @@
 Group project for DATA 6550 on Data Visualization
 
 ## Structure
-- `databias_report.docx`: Final report with track changes enabled.
+- `final_report.pdf`: Final project report for presentation.
 - `Code/`: Directory containing individual code files.
-  - `Forte/`: code files for member 1.
-  - `Segura/`: code files for member 2.
-  - `Goswani/`: code files for member 3.
-  - `Lingala/`: code files for member 4.
+  - `Forte/`: Code files for Kristen Forte.
+  - `Segura/`: Code files for Sebastian Segura.
+  - `Goswani/`: Code files for Tanviben Goswami.
+  - `Lingala/`: Code files for Keerthana Lingala.
 - `Data/`: Directory containing the dataset file(s).
 - `Collaboration/`: AI-generated summaries of group discussions.
-  - `WeekA.docx`: summary of Week A discussions.
-  - `WeekB.docx`: summary of Week B discussions.
-- `Images/`: directory for graphics and intermediate results.
-  - `databias_report.pdf`: final project report for presentation.
-
+  - `WeekA.docx`: Summary of Week A discussions.
+  - `WeekB.docx`: Summary of Week B discussions.
+- `Images/`: Directory for graphics and intermediate results.
